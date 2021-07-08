@@ -4,10 +4,10 @@ Udacity Robotics Software Engineer Nanodegree Where Am I Project:
 ### Install
 Clone the repo
 ``
-cd /home/workspace/catkin_ws/src/udacity_bot
-git clone https://github.com/ayertay/RoboND-Where-Am-I.git
-catkin_make  
-source devel/setup.bash``
+cd /home/workspace/catkin_ws/src/udacity_bot``    
+``git clone https://github.com/ayertay/RoboND-Where-Am-I.git``    
+``catkin_make``    
+``source devel/setup.bash``
 ### Running the Scripts
 Run the following commands below in separate terminals: 
 
